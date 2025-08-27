@@ -41,7 +41,7 @@ Currency-Converter/
 
 ## 🖥️ Screenshot
 
-![Currency Converter Screenshot](https://raw.githubusercontent.com/Rohantiwari10/Currency-Converter/main/screenshot.png)
+![Currency Converter Screenshot](https://raw.githubusercontent.com/Rohantiwari10/Currency-Converter/main/assets/screenshot.png)
 
 
 ---
